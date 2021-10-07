@@ -53,7 +53,7 @@ need clash and proxy jd.
 Same to gitee.com
 copy ssh-key ;
 ssh -T git@gitee.com
-git remote add origin-gitee master git@gitee.com:romepeng/git-help.git
+git remote add origin-gitee git@gitee.com:romepeng/git-help.git
 git push -u origin-gitee master
 
 
