@@ -31,6 +31,7 @@ cd git-help
 git init
 git add .
 git commit -m "first commit"
+git status
 
 git branch -M main
 git remote add origin git@github.com:romepeng/git-help.git
