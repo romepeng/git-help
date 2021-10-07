@@ -49,6 +49,12 @@ Use proxychains4 proxy:
 proxychains4 git ...
 need clash and proxy jd.
 
+Get link from github:
+1.https://raw.githubusercontent.com/romepeng/git-help/main/README.md 
+2.cdn speed:
+https:/cdn.jsdelivr.net/gh/romepeng/git-help@main/
+https:/cdn.jsdelivr.net/gh/romepeng/git-help@main/README.md
+
 
 Same to gitee.com
 copy ssh-key ;
